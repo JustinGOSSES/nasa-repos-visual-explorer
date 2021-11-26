@@ -22,6 +22,7 @@ function draw_line_repoCreationHistory(areaID, repoNameWOwner) {
         // GitHub founded
         var ghfounded = '2008-02-08';
         // Software.llnl.gov founded
+        var startAsPublicRepoPolicy = 2021-06-01;
         
         //<!-- replaced -->
         // var sw_llnl = '2015-11-24';
@@ -145,6 +146,7 @@ function draw_line_repoCreationHistory(areaID, repoNameWOwner) {
         // Draw reference date lines
         addDateLine(gitrelease, 'Git Released');
         addDateLine(ghfounded, 'GitHub Founded');
+        addDateLine(startAsPublicRepoPolicy, 'policy of starting as public repo starts');
         // <!-- replaced -->
         // addDateLine(sw_llnl, 'LLNL Soft. Portal');
 
