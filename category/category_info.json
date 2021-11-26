@@ -1,39 +1,9 @@
 {
     "data": {
-        "Awesome": {
-            "title": "Awesome",
-            "icon": {
-                "path": "/awsome-list-visual-explorer-template/assets/images/performance.svg",
-                "alt": "having to do with the Awesome Lists"
-            },
-            "description" : {
-                "short": "Repos having to do with the Awesome Lists",
-                "long": ""
-            },
-            "topics": [
-                "Awesome",
-                "Awesome-list",
-                "Awesome-Lists"
-            ]
-        },
-        "DATA MANAGEMENT & VIZ": {
-            "title": "DATA MANAGEMENT",
-            "icon": {
-                "path": "/awsome-list-visual-explorer-template/assets/images/data-manage.svg",
-                "alt": "Data Management"
-            },
-            "description": {
-                "short": "Data and data management repositories",
-                "long": ""
-            },
-            "topics": [
-                "data-management"
-            ]
-        },
         "WEB SITES & APPLICATIONS": {
             "title": "WEB SITES & APPLICATIONS",
             "icon": {
-                "path": "/awsome-list-visual-explorer-template/assets/images/application.svg",
+                "path": "/nasa-repos-visual-explorer/assets/images/application.svg",
                 "alt": "WEB SITES & APPLICATIONS"
             },
             "description": {
@@ -47,13 +17,20 @@
                 "websites",
                 "web",
                 "server",
-                "front-end"
+                "front-end",
+                "gh-pages",
+                "static",
+                "demo",
+                "documentation",
+                "flask",
+                "welcome-page",
+                "welcome"
             ]
         },
         "Visualization": {
             "title": "Visualization",
             "icon": {
-                "path": "/awsome-list-visual-explorer-template/assets/images/prox-app.svg",
+                "path": "/nasa-repos-visual-explorer/assets/images/prox-app.svg",
                 "alt": "data visualization"
             },
             "description": {
@@ -66,31 +43,156 @@
                 "dataviz",
                 "viz",
                 "d3",
-                "holoviz"
+                "holoviz",
+                "WordWind",
+                "worldwind",
+                "image"
             ]
         },
-        "SYSTEM SOFTWARE": {
-            "title": "SYSTEM SOFTWARE",
+        "API": {
+            "title": "API",
             "icon": {
-                "path": "/awsome-list-visual-explorer-template/assets/images/system-software.svg",
-                "alt": "Systems Software"
+                "path": "/nasa-repos-visual-explorer/assets/images/system-software.svg",
+                "alt": "APIs"
             },
             "description": {
-                "short": "Manage laptop and desktop computer systems, HPC clusters, and parallel environments",
+                "short": "APIs and API related",
                 "long": ""
             },
             "topics": [
-                "system-software",
-                "system",
-                "backend",
+                "API",
+                "APIs",
+                "application-program-interface",
                 "server",
-                "serve"
+                "serve",
+                "apod-api"
+            ]
+        },
+        "Communications": {
+            "title": "Communications",
+            "icon": {
+                "path": "/nasa-repos-visual-explorer/assets/images/system-software.svg",
+                "alt": "Communications"
+            },
+            "description": {
+                "short": "Communications",
+                "long": ""
+            },
+            "topics": [
+                "Communications",
+                "Communication",
+                "network",
+                "space-communications",
+                "serve",
+                "apod-api"
+            ]
+        },
+        "Education": {
+            "title": "Education",
+            "icon": {
+                "path": "/nasa-repos-visual-explorer/assets/images/system-software.svg",
+                "alt": "Education"
+            },
+            "description": {
+                "short": "Education",
+                "long": ""
+            },
+            "topics": [
+                "Education",
+                "education",
+                "learning",
+                "students",
+                "hackathon",
+                "beginner-friendly"
+            ]
+        },
+        "Machine-Learning": {
+            "title": "Machine-Learning",
+            "icon": {
+                "path": "/nasa-repos-visual-explorer/assets/images/system-software.svg",
+                "alt": "Machine-Learning"
+            },
+            "description": {
+                "short": "ML",
+                "long": ""
+            },
+            "topics": [
+                "Machine-Learning",
+                "ML",
+                "AI",
+                "NLP",
+                "DL",
+                "nlp-train",
+                "usg-artificial-intelligence",
+                "ai-tags",
+                "natural-language-processing",
+                "machine-learning",
+                "artificial-intelligence",
+                "deep-learning"
+            ]
+        },
+        "Astronomy": {
+            "title": "Astronomy",
+            "icon": {
+                "path": "/nasa-repos-visual-explorer/assets/images/system-software.svg",
+                "alt": "Astronomy"
+            },
+            "description": {
+                "short": "Astronomy",
+                "long": ""
+            },
+            "topics": [
+                "Astronomy",
+                "space",
+                "apod",
+                "star",
+                "stars"
+            ]
+        },
+        "Earth Observation": {
+            "title": "Earth Observation",
+            "icon": {
+                "path": "/nasa-repos-visual-explorer/assets/images/system-software.svg",
+                "alt": "Earth Observation"
+            },
+            "description": {
+                "short": "EO",
+                "long": "Earth Observation"
+            },
+            "topics": [
+                "earth",
+                "Earth Observation",
+                "satellite",
+                "cFS",
+                "sky",
+                "geoscience",
+                "satellite-imagery",
+                "imagery"
+            ]
+        },
+        "Code": {
+            "title": "Code",
+            "icon": {
+                "path": "/nasa-repos-visual-explorer/assets/images/system-software.svg",
+                "alt": "Code related"
+            },
+            "description": {
+                "short": "code",
+                "long": "Code"
+            },
+            "topics": [
+                "code",
+                "code-quality",
+                "code-analysis",
+                "open-code",
+                "security",
+                "code-review"
             ]
         },
         "DATA": {
-            "title": "DATA MINING",
+            "title": "Open DATA",
             "icon": {
-                "path": "/awsome-list-visual-explorer-template/assets/images/file-systems.svg",
+                "path": "/nasa-repos-visual-explorer/assets/images/file-systems.svg",
                 "alt": "File Systems"
             },
             "description": {
@@ -103,7 +205,12 @@
                 "datasets",
                 "catalogs",
                 "dataset",
-                "model"
+                "model",
+                "code",
+                "api",
+                "open-data",
+                "open-source",
+                "open-science"
             ]
         }
     }
