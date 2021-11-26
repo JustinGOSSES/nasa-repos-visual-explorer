@@ -4,11 +4,11 @@
 <i>NOTE: You may be looking at a repository made with the template https://github.com/JustinGOSSES/awsome-list-visual-explorer-template or you may be looking at the actual code repository https://github.com/JustinGOSSES/awsome-list-visual-explorer-template. If the name of the code repository is not <b>awsome-list-visual-explorer-template</b>, you are looking at a code repository made with the template.</i>
 
 ## Description of this code repository if not the template:
-- Repository Name: 
-- Repository Authors: 
-- Purpose:
-- Link To Awesome List Parsed In This Code Project:
-- Link to Live Website: <b><a href="">none yet</a></b>
+- Repository Name: nasa-repos-visual-explorer
+- Repository Authors: Justin Gosses
+- Purpose: Visualize trends and patterns in NASA code.
+- Link To Awesome List Parsed In This Code Project: code.nasa.gov/code.json (not an awesome list but a JSON following code.gov schema.
+- Link to Live Website: <b><a href="https://justingosses.github.io/nasa-repos-visual-explorer/">https://justingosses.github.io/nasa-repos-visual-explorer/</a></b>
 - Last Ran in Full On: YYYY-MM-DD
 
 ### Contributing to this repository if not the template
