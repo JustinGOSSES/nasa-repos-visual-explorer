@@ -11,7 +11,8 @@
         "nasa-openscapes",
         "nasa-tensegrity-robotics-toolkit",
         "nasaworldwind",
-        "openmdao"
+        "openmdao",
+        "NASA-AMMOS"
     ],
     "repos": [
         "alotau/dwsolver",
